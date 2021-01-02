@@ -24,3 +24,7 @@ dir
 cd weatherProject
 
 python manage.py startapp weatherApp
+
+python manage.py makemigrations
+
+python manage.py migrate
