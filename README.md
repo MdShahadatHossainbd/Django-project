@@ -15,7 +15,7 @@ python manage.py runserver
 
 
 
-#WeatherApp
+# WeatherApp
 
 django-admin startproject weatherProject
 
